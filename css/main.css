@@ -1,0 +1,49 @@
+body {
+  background-color: #f9f9f9;
+}
+
+footer {
+  background-color: #7556DF;
+  color: white;
+  font-family: 'Helvetica', bold;
+  width: 100%;
+  bottom: 0;
+
+  padding-right: 5px;
+  position: fixed;
+}
+cite {
+  color: #FFFFFF;
+  padding: 5px;
+}
+
+.logotyp {
+  float: right;
+  padding: 5px;
+}
+
+.avatartype {
+
+ 
+}
+
+.dashpanel {
+  background-color: #7556DF;
+  height: 200%;
+  width: 7%;
+  border: 1px solid #000000;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+
+}
+
+form {
+  padding: 20px;
+  border: 1px solid #000000;
+  left: 50%;
+  top: 0;
+  height: 250px;
+  width: 250px;
+  position: relative;
+}

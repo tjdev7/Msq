@@ -1,2 +1,3 @@
-# socialz
-Social media app. WIP
+# Msq
+
+Minimalist quick messaging app.
