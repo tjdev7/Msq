@@ -3,9 +3,22 @@ import ReactDOM from 'react-dom';
 
 // PanelMenu
 
-const Menu = 
+function Menu () {
+	return (
+
+	);
+} 
 
 
-// Show Channels
+const ShowChannels () {
+	return (
 
-// Show users
+	);
+}
+
+const showusers () {
+	return (
+
+	);
+
+}
