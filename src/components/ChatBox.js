@@ -1,11 +1,23 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-// Chat box
-const ChatBox 
+Function Chatbox () {
+	return (
+
+	);
+}
+const ChatInput () {
+	return (
+
+	);
+}
 
 // user input
 
-// send 
+const sendbutton () {
+	return (
+
+	);
+}
 
 // button fa fa-

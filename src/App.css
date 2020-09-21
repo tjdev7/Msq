@@ -22,12 +22,14 @@ p {
   color: #000000;
 }
 
-/*
+
 
 .App-menu-panel {
-  
+  width: 100px;
+  color: purple;
+  left: 0;
 }
-
+/*
 .App-menu-text {
 
 }
