@@ -1,11 +1,11 @@
-![Msq logo](img/Msq-logo.png)
+![Msq logo](public/img/Msq-logo.png)
 
 # Msq
 
-Minimalist quick messaging app. Only the barebone essentials being presented and used. 
+Minimalist quick messaging app. 
 
 ## Created with
 
+- React
 - Javascript
-- php
 - Illustrator

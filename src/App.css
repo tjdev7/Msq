@@ -25,18 +25,31 @@ p {
 
 
 .App-menu-panel {
-  width: 100px;
-  color: purple;
-  left: 0;
+  background-color: #7556DF;
+  height: 200%;
+  width: 17%;
+  padding: 15px 20px 20px 15px;
+  display: flex;
+  flex-direction: column;
 }
-/*
-.App-menu-text {
 
-}
+
 .App-menu-title {
-  
+  color: #000000;
+  font-size: 50px;
 }
 
+.App-menu-subtitle {
+  color: #000000;
+  font-size: 50px;
+}
+
+.App-menu-text{
+  color: #000000;
+  font-size: 50px;
+}
+
+/*
 .Chat-display {
   
 }
