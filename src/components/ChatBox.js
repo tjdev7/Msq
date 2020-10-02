@@ -1,10 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-Function Chatbox () {
-	return (
-
-	);
+class Chatbox () {
+	render() {
+		return (
+			<form>
+				//<i class="fa fa-send"></i>
+	            <input type="text" />
+	        </form>
+		);
+	}
 }
 const ChatInput () {
 	return (
@@ -12,12 +17,8 @@ const ChatInput () {
 	);
 }
 
-// user input
-
 const sendbutton () {
 	return (
-
+		//<i class="fa fa-send"></i>
 	);
 }
-
-// button fa fa-
