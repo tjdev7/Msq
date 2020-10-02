@@ -16,10 +16,10 @@ function App( {AppTitle, Channels, Users} ) {
         <div className="App-menu-subtitle">
         	<i className = "fa fa-tv"></i>
         	Channels
-            <p>#Help</p>
-            <p>#General</p>
-            <p>#Meetups</p>
-            <p>#Hardware</p>
+            <p># Help</p>
+            <p># General</p>
+            <p># Meetups</p>
+            <p># Hardware</p>
 
 
         </div>
@@ -34,6 +34,7 @@ function App( {AppTitle, Channels, Users} ) {
             
         </div>
     </div>
+
   );
 }
 
