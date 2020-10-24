@@ -4,6 +4,10 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+// function App( {AppTitle, Channels, Users} ) {
+
+// }
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
