@@ -1,40 +1,38 @@
 import React from 'react';
 import './App.css';
-import Msqlogo from './Msqlogo.png';
 
 function App( {AppTitle, Channels, Users} ) {
   return (
     <div className="App-menu-panel">
-
         <div className="App-menu-title ">
-            <img src = {Msqlogo} alt="logo"/>
-            <i className = ""></i>
-        	 Minimalist messaging app
-
+            <button className="togglemenu">
+                    x
+                </button>
+        <span className="appname">Msq</span>
             </div>
-        
         <div className="App-menu-subtitle">
         	<i className = "fa fa-tv"></i>
-        	Channels
+        	<span className="menutitle">Channels</span>
+            <br />
             <p># Help</p>
             <p># General</p>
             <p># Meetups</p>
             <p># Hardware</p>
-
-
         </div>
-        
+        <br />
         <div className="App-menu-subtitle">
             <i className = "fa fa-group"></i>
-        	Users
-            <p>John</p>
-            <p>Jane</p>
-            <p>Adam</p>
-            <p>Ashley</p>
-            
+        	<span className="menutitle">Users</span>
+            <p className="">• John</p>
+            <p>• Jane</p>
+            <p>• Adam</p>
+            <p>• Ashley</p>
         </div>
+        <form>
+            <i className = "fa fa-send"></i>  
+            <input placeholder="Start a chat"/>
+       </form> 
     </div>
-
   );
 }
 
