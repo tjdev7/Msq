@@ -3,15 +3,17 @@ import ReactDOM from 'react-dom';
 
 function ChannelList() {
 	return (
-
+		<div className="App-menu-subtitle">
+        	<i className = "fa fa-tv"></i>
+        	<span className="menutitle">Channels</span>
+            <br />
+            <p># Help</p>
+            <p># General</p>
+            <p># Meetups</p>
+            <p># Hardware</p>
+        </div>
 	);
 }
-
-// Help
-// # General
-// # Meetups
-// # Hardware
-
 
 var ChannelList = [
 	{

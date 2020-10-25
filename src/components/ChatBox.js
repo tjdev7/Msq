@@ -5,20 +5,14 @@ class Chatbox () {
 	render() {
 		return (
 			<form>
-				//<i class="fa fa-send"></i>
-	            <input type="text" />
-	        </form>
+            	<i className = "fa fa-send"></i>  
+            	<input placeholder="Start a chat"/>
+       		</form> 
 		);
 	}
 }
 const ChatInput () {
 	return (
 
-	);
-}
-
-const sendbutton () {
-	return (
-		//<i class="fa fa-send"></i>
 	);
 }

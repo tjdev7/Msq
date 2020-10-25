@@ -11,7 +11,9 @@ function App( {AppTitle, Channels, Users} ) {
         <span className="appname">Msq</span>
             </div>
         <div className="App-menu-subtitle">
-        	<i className = "fa fa-tv"></i>
+        	
+            <i className="material-icons">arrow_drop_down</i>
+            <i className="material-icons">play_arrow</i>
         	<span className="menutitle">Channels</span>
             <br />
             <p># Help</p>
@@ -21,7 +23,8 @@ function App( {AppTitle, Channels, Users} ) {
         </div>
         <br />
         <div className="App-menu-subtitle">
-            <i className = "fa fa-group"></i>
+            <i className="material-icons">arrow_drop_down</i>
+            <i className="material-icons">play_arrow</i>
         	<span className="menutitle">Users</span>
             <p className="">• John</p>
             <p>• Jane</p>
