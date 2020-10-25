@@ -45,11 +45,12 @@ p {
 }
 
 .togglemenu {
-  margin: 10px;
+  font-size: 20px;
+  margin: 5px;
+  padding: 5px 12px;
   border-radius: 50%;
   background:linear-gradient(to bottom, #ededed 5%, #dfdfdf 100%);
   background-color:#ededed;
-  border-radius:6px;
   border:1px solid #dcdcdc;
   display:inline-block;
   text-decoration:none;

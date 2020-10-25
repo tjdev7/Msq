@@ -3,14 +3,17 @@ import ReactDOM from 'react-dom';
 
 Function Users () {
 	return (
-
+		<div className="App-menu-subtitle">
+            <i className = "fa fa-group"></i>
+        	<span className="menutitle">Users</span>
+            <p className="">• John</p>
+            <p className="">• Jane</p>
+            <p className="">• Adam</p>
+            <p className="">• Ashley</p>
+        </div>
 	);
 }
 
-// /John
-// Jane
-// Adam
-// Ashley
 
 var UserList = [
 	{
