@@ -1,13 +1,97 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  background-color: #EAEAEA;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+img {
+  height: 20%;
+  width: 15%;
+  padding: 2px;
 }
+
+p {
+  color: #000000;
+}
+
+.App-menu-panel {
+  background-color: #7556DF;
+  height: 100%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  padding: 10px;
+  /* padding: 15px 20px 20px 15px; */
+  /*display: flex;*/
+  color: #FFFFFF;
+  flex-direction: column;
+  font-size: 5px;
+}
+
+.appname { 
+  font-family: 'Cooper Std Black';
+  color: yellow;
+  font-size: 50px;
+}
+
+.App-menu-title,
+.App-menu-subtitle,
+.App-menu-text {
+  color: #FFFFFF;
+  font-size: 20px;
+}
+ 
+.App-menu-subtitle {
+  margin: 5px;
+}
+
+.togglemenu {
+  font-size: 20px;
+  margin: 5px;
+  padding: 5px 12px;
+  border-radius: 50%;
+  background:linear-gradient(to bottom, #ededed 5%, #dfdfdf 100%);
+  background-color:#ededed;
+  border:1px solid #dcdcdc;
+  display:inline-block;
+  text-decoration:none;
+
+}
+
+.togglemenu:hover {
+  background:linear-gradient(to bottom, #dfdfdf 5%, #ededed 100%);
+  background-color:#dfdfdf;
+}
+.togglemenu:active {
+  position:relative;
+  top:1px;
+}
+
+.fa {
+  padding: 5px;
+  font-size: 20px;
+}
+
+p {
+  color: #FFFFFF;
+  margin: 3px;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.menutitle {
+  font-family: 'Cooper Std Black';
+  margin: 1px;
+}
+
+input {
+  font-family: 'Helvetica';
+}
+
+/*
+.Chat-display {
+  
+}
+
+.Chat-box {
+  
+}
+*/
