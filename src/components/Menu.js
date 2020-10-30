@@ -3,24 +3,24 @@ import ReactDOM from 'react-dom';
 
 // PanelMenu
 
-function Menu () {
-	return (
+// function Menu () {
+// 	return (
 
-	);
-} 
-
-
+// 	);
+// } 
 
 
-const ShowChannels () {
-	return (
 
-	);
-}
 
-const showusers () {
-	return (
+// const ShowChannels () {
+// 	return (
 
-	);
+// 	);
+// }
 
-}
+// const showusers () {
+// 	return (
+
+// 	);
+
+// }

@@ -6,6 +6,7 @@
 ------------------------------------------------------------
 
 ## Type of PR
+<!-- Delete any categories that don't apply-->
 
 * New feature
 * Code cleaning
