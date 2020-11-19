@@ -20,12 +20,13 @@ p {
   top: 0;
   left: 0;
   padding: 10px;
-  /* padding: 15px 20px 20px 15px; */
-  /*display: flex;*/
+  
   color: #FFFFFF;
   flex-direction: column;
   font-size: 5px;
 }
+/* padding: 15px 20px 20px 15px; */
+  /*display: flex;*/
 
 .appname { 
   font-family: 'Cooper Std Black';
