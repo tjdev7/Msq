@@ -1,6 +1,6 @@
 {
   "name": "Msq",
-  "version": "0.3.4",
+  "version": "0.4.0",
   "homepage": "https://toughee.github.io/Msq/",
   "private": true,
   "dependencies": {
@@ -11,14 +11,14 @@
     "object-path": "^0.11.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3"
+    "react-scripts": "^4.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy" : "npm run build&&gh-pages -d build"
+    "deploy": "npm run build&&gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
