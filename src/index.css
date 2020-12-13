@@ -29,7 +29,8 @@ p {
   /*display: flex;*/
 
 .appname { 
-  font-family: 'Cooper Std Black';
+  font-family: 'Helvetica', Bold;
+  
   color: yellow;
   font-size: 50px;
 }
@@ -79,7 +80,8 @@ p {
 }
 
 .menutitle {
-  font-family: 'Cooper Std Black';
+  font-family: 'Noto Sans JP', sans-serif;
+
   margin: 1px;
 }
 
