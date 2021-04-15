@@ -1,6 +1,6 @@
 {
   "name": "Msq",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "homepage": "https://toughee.github.io/Msq/",
   "private": true,
   "dependencies": {
@@ -36,6 +36,7 @@
     ]
   },
   "devDependencies": {
+    "css-minimizer-webpack-plugin": "^2.0.0",
     "gh-pages": "^3.1.0"
   }
 }
