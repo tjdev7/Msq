@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 
 // Components
-import Menu from './components/Menu';
+// import Menu from './components/Menu';
 
 
 function App( {AppTitle, Channels, Users} ) {
