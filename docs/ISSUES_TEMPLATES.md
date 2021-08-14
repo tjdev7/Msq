@@ -1,45 +1,21 @@
-# List of changes made: 
 
--
--
--
-
--------------------------------------------------------------
-
-## Type of Issue:
+# Type of Issue:
 
 * New feature request
 * Bug report-Major
 * Bug report-Medium
 * Bug report-Small
 
--------------------------------------------------------------
-## Recent issue description:
+# Recent issue description
 
+# Possible solution:
 
-
--------------------------------------------------------------
-### Possible solution:
-
-
-
--------------------------------------------------------------
-### Step by step guide for recent PR:
+# Step by step guide for recent PR:
 
 1.
 2. 
 3.
 
+# Context of current issue:
 
--------------------------------------------------------------
-### Context of current issue:
-
-
-
--------------------------------------------------------------
-### Your current work environment:
-
-
-
-
--------------------------------------------------------------
+# Your current work environment:
