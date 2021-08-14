@@ -13,7 +13,7 @@ Minimalist quick messaging app.
 
 #### How to use
 
-1. Clone repo into desired directory ```git clone https://github.com/Toughee/Min.Me.git``` or ```gh repo clone Toughee/Min.Me```
+1. Clone repo into desired directory ```git clone https://github.com/Toughee/Msq.git``` or ```gh repo clone Toughee/Msq```
 2. Run ```npm install``` to install all app node modules and dependencies
 3. Run ```yarn start``` to run app on http://localhost:3000/
 
